@@ -1,0 +1,13 @@
+body {
+font-family: Niramit;
+background-image: linear-gradient(to right,#4b6cb7,#182848 );
+color:#fff;
+}
+
+.name {
+margin-left: 2%;
+margin-top: 2%;
+}
+.anime {
+margin: 2%;
+}
