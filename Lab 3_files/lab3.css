@@ -1,0 +1,71 @@
+.btnText {
+  font-weight:bold;
+  font-size:1.2em;
+  font-family: Arial;
+  margin-bottom: 5%;
+  color: #003366;
+}
+
+b {
+  font-family: Niramit;
+}
+h3{
+  font-family: Niramit;
+  font-size: 0.9em;
+
+}
+h5 {
+  font-size: 0.9em;
+  color:#fff;
+}
+li {
+  font-family: Arial;
+}
+.mainTitle {
+  font-family: Arial;
+  font-size: 4.5em;
+  margin-left: 37%;
+  color:#000;
+  z-index: 999;
+}
+.reqs {
+  margin-top: 5%;
+}
+.title {
+  font-weight:bold;
+  font-size:1.5em;
+  font-family: Arial;
+  margin-top:10%;
+  color: #fff;
+}
+.menu {
+  font-family: Verdana,Arial,Helvetica,Sans Serif;
+  font-size:11px;
+  height:100vh;
+  color:#003366;
+  background-image: linear-gradient(#FFBB2A,#000000, #FFBB2A);
+  font-weight:plain;
+  text-align:center;
+}
+.section{
+  border-radius: 20%;
+  background: #fff;
+  margin:3px;
+  padding:2%;
+  background: rgba(255, 255, 255, 0.6);
+
+}
+.mainPage {
+  margin:0;
+}
+.secondPageParallax {
+  position: absolute;
+  margin:0;
+  z-index: 999;
+
+}
+.studentData {
+  font-size: 1.4em;
+  margin: 0;
+  font-family: Arial;
+}
